@@ -31,7 +31,7 @@
 |---|---|---|
 | **GeoReality** | Decision support for cross-border life choices. 30+ ETL pipelines, 120+ verified indicators across 196 countries and 361 UK local authorities, with an AI matcher grounded on the data layer. | [geo-reality.com](https://www.geo-reality.com) |
 | **IatroLog** | Surgical logger and revenue tracker for orthopaedic surgeons in Greece. Grounded AI assistant over each surgeon's own records, voice-note case entry, myDATA e-invoicing. | private beta |
-| **Frontis** | Scheduling and teaching tool for solo private tutors in Greece. Phone-first lesson management, plus a RAG pipeline over indexed syllabus documents that generates grounded practice exams and quizzes. | [frontis.gr](https://frontis.gr) |
+| **Frontis** | Scheduling and teaching tool for solo private tutors in Greece. Phone-first lesson management, plus a RAG pipeline over indexed syllabus documents that generates grounded practice exams and quizzes. | closed alpha |
 | **Road Trip Bingo** | Route-aware AI game for kids on UK car journeys. Extracts real landmarks along the planned route, then generates a board grounded on them. | [play](https://bingo-iota-gray.vercel.app) |
 
 ### Working with
